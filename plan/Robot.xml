@@ -1,40 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="jCtu_2u-H5CvtR6rhorh">
-    <mxGraphModel dx="1285" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1743" dy="2416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="So1z7hWqTnWqB35hBrYY-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-32" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="-1490" width="324" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-31" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="-1420" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-28" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="155.5" y="-1170" width="190" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-1" target="Do4_PR0F2J17wUxJ_zKX-4" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-1" target="Do4_PR0F2J17wUxJ_zKX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-1" value="5V 5A USB-C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-1" value="5V 5A USB-C" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="374.5" y="-1550" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-4" target="Do4_PR0F2J17wUxJ_zKX-6" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-4" target="Do4_PR0F2J17wUxJ_zKX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-4" target="Do4_PR0F2J17wUxJ_zKX-12" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-4" target="Do4_PR0F2J17wUxJ_zKX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-4" value="&lt;a href=&quot;https://thepihut.com/products/pololu-usb-2-0-type-c-connector-breakout-board-usb07b&quot;&gt;USB-C breakout&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-4" value="&lt;a href=&quot;https://thepihut.com/products/pololu-usb-2-0-type-c-connector-breakout-board-usb07b&quot;&gt;USB-C breakout&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="368" y="-1460" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-6" value="&lt;a href=&quot;https://thepihut.com/products/usb-diy-slim-connector-shell-microb-plug&quot;&gt;DIY micro USB cable&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-6" value="&lt;a href=&quot;https://thepihut.com/products/usb-diy-slim-connector-shell-microb-plug&quot;&gt;DIY micro USB cable&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="167.5" y="-1465" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=1.02;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="Do4_PR0F2J17wUxJ_zKX-12" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=1.02;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="Do4_PR0F2J17wUxJ_zKX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="367.5" y="-1330" as="targetPoint" />
             <Array as="points">
@@ -43,13 +43,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-10" value="&lt;a href=&quot;https://thepihut.com/products/raspberry-pi-pico-2&quot;&gt;pi pico 2&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-10" value="&lt;a href=&quot;https://thepihut.com/products/raspberry-pi-pico-2&quot;&gt;pi pico 2&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="207.5" y="-1390" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.318;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-6" target="Do4_PR0F2J17wUxJ_zKX-10" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.318;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-6" target="Do4_PR0F2J17wUxJ_zKX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-23" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="587.5" y="-1350" />
@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-20" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="587.5" y="-1350" />
@@ -65,7 +65,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-22" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="587.5" y="-1350" />
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="587.5" y="-1350" />
@@ -81,7 +81,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-19" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="587.5" y="-1350" />
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-19" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="577.5" y="-1340" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="577.5" y="-1340" />
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-22" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="577.5" y="-1340" />
@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-20" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-12" target="Do4_PR0F2J17wUxJ_zKX-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="577.5" y="-1340" />
@@ -129,25 +129,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-12" value="&lt;div&gt;&lt;a href=&quot;https://thepihut.com/products/adafruit-16-channel-12-bit-pwm-servo-driver-i2c-interface-pca9685&quot;&gt;motor driver&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-12" value="&lt;div&gt;&lt;a href=&quot;https://thepihut.com/products/adafruit-16-channel-12-bit-pwm-servo-driver-i2c-interface-pca9685&quot;&gt;motor driver&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="368" y="-1360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-19" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-19" target="Do4_PR0F2J17wUxJ_zKX-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-19" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-19" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="-1240" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-20" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-20" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="-1380" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-21" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-21" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="-1275" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-22" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-22" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="-1310" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Do4_PR0F2J17wUxJ_zKX-23" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="Do4_PR0F2J17wUxJ_zKX-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="457.5000000000001" y="-1340" as="sourcePoint" />
             <Array as="points">
@@ -158,54 +158,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-23" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-23" value="&lt;a href=&quot;https://thepihut.com/products/towerpro-servo-motor-sg90-digital&quot;&gt;Servo&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="-1345" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-37" target="Do4_PR0F2J17wUxJ_zKX-37" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-37" target="Do4_PR0F2J17wUxJ_zKX-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="-1510" as="sourcePoint" />
             <mxPoint x="150" y="-1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-37" value="Power" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-37" value="Power" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="-1540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-41" value="" style="endArrow=none;html=1;rounded=0;shape=link;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-42" target="Do4_PR0F2J17wUxJ_zKX-42" edge="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-41" value="" style="endArrow=none;html=1;rounded=0;shape=link;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-42" target="Do4_PR0F2J17wUxJ_zKX-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="-1390" as="sourcePoint" />
             <mxPoint x="150" y="-1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Do4_PR0F2J17wUxJ_zKX-42" value="Data" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Do4_PR0F2J17wUxJ_zKX-42" value="Data" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="-1490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-16" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195.5" y="-1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-12" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-14" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-13" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-15" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="So1z7hWqTnWqB35hBrYY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-4" value="&lt;a href=&quot;https://thepihut.com/products/rj45-breakout-horizontal&quot;&gt;RJ45 breakout&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-4" value="&lt;a href=&quot;https://thepihut.com/products/rj45-breakout-horizontal&quot;&gt;RJ45 breakout&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="243" y="-1150" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-7" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-7" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-7" value="&lt;a href=&quot;https://thepihut.com/products/rj45-breakout-horizontal&quot;&gt;RJ45 breakout&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-7" value="&lt;a href=&quot;https://thepihut.com/products/rj45-breakout-horizontal&quot;&gt;RJ45 breakout&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="215" y="-1300" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.165;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="So1z7hWqTnWqB35hBrYY-7" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.165;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="So1z7hWqTnWqB35hBrYY-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="227.5" y="-1340" as="sourcePoint" />
             <mxPoint x="227.5" y="-1312" as="targetPoint" />
@@ -217,35 +217,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0.806;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.85;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="So1z7hWqTnWqB35hBrYY-7" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0.806;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.85;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-10" target="So1z7hWqTnWqB35hBrYY-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="267.5" y="-1345" as="sourcePoint" />
             <mxPoint x="267.5" y="-1309" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.148;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="So1z7hWqTnWqB35hBrYY-7" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.148;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-7" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-12" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-12" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-12" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-12" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;fontStyle=0;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155.5" y="-1030" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-13" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-13" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-13" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-13" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="-1030" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-14" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-14" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-14" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-14" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;fontStyle=0;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="185.5" y="-1030" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.449;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-15" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.449;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-15" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="298.5" y="-942" />
@@ -254,22 +254,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-15" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-15" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="244.5" y="-1030" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" parent="1" source="So1z7hWqTnWqB35hBrYY-16" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-16" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-16" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-16" value="&lt;a href=&quot;https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long&quot;&gt;slide potentiometers&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="125.5" y="-1030" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-29" value="Controller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-29" value="Controller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="155" y="-1170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-30" value="on the arm" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-30" value="on the arm" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="-1420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-33" value="in the base" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="So1z7hWqTnWqB35hBrYY-33" value="in the base" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="-1495" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
