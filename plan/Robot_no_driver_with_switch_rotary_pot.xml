@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="jCtu_2u-H5CvtR6rhorh">
-    <mxGraphModel dx="299" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1828" dy="2559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="So1z7hWqTnWqB35hBrYY-28" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-1180" width="190" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="Do4_PR0F2J17wUxJ_zKX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-1" target="Do4_PR0F2J17wUxJ_zKX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -70,6 +67,56 @@
         <mxCell id="Do4_PR0F2J17wUxJ_zKX-42" value="Data" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="-1490" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="jNQyoVKZM31ma9HM87NY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="-1090" />
+              <mxPoint x="340" y="-1090" />
+              <mxPoint x="340" y="-1020" />
+              <mxPoint x="310" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="jNQyoVKZM31ma9HM87NY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="-1090" />
+              <mxPoint x="340" y="-1090" />
+              <mxPoint x="340" y="-1020" />
+              <mxPoint x="290" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="jNQyoVKZM31ma9HM87NY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="-1090" />
+              <mxPoint x="340" y="-1090" />
+              <mxPoint x="340" y="-1020" />
+              <mxPoint x="270" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="jNQyoVKZM31ma9HM87NY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="-1090" />
+              <mxPoint x="340" y="-1090" />
+              <mxPoint x="340" y="-1020" />
+              <mxPoint x="249" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="So1z7hWqTnWqB35hBrYY-4" target="jNQyoVKZM31ma9HM87NY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="-1090" />
+              <mxPoint x="340" y="-1090" />
+              <mxPoint x="340" y="-1020" />
+              <mxPoint x="229" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="So1z7hWqTnWqB35hBrYY-4" value="&lt;a href=&quot;https://thepihut.com/products/rj45-breakout-horizontal&quot;&gt;RJ45 breakout&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="243" y="-1150" width="65" height="40" as="geometry" />
         </mxCell>
@@ -100,9 +147,6 @@
         </mxCell>
         <mxCell id="So1z7hWqTnWqB35hBrYY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.148;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="So1z7hWqTnWqB35hBrYY-7" target="So1z7hWqTnWqB35hBrYY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="So1z7hWqTnWqB35hBrYY-29" value="Controller" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="155" y="-1170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NNg_8I9OwYUqMp8hP5Y1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NNg_8I9OwYUqMp8hP5Y1-5" target="Do4_PR0F2J17wUxJ_zKX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,64 +202,59 @@
         <mxCell id="NNg_8I9OwYUqMp8hP5Y1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Do4_PR0F2J17wUxJ_zKX-4" target="NNg_8I9OwYUqMp8hP5Y1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-3" target="So1z7hWqTnWqB35hBrYY-4">
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-3" target="So1z7hWqTnWqB35hBrYY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="-1090" />
-              <mxPoint x="259" y="-1090" />
+              <mxPoint x="290" y="-1080" />
+              <mxPoint x="259" y="-1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-3" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jNQyoVKZM31ma9HM87NY-3" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="-1060" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-5">
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-5" target="So1z7hWqTnWqB35hBrYY-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="-1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="-1090" />
-              <mxPoint x="260" y="-1090" />
+              <mxPoint x="310" y="-1080" />
+              <mxPoint x="259" y="-1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-5" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jNQyoVKZM31ma9HM87NY-5" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="-1060" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-6" target="So1z7hWqTnWqB35hBrYY-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229.69" y="-1060" as="sourcePoint" />
-            <mxPoint x="258.94" y="-1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="229.69" y="-1090" />
-              <mxPoint x="258.69" y="-1090" />
+              <mxPoint x="229" y="-1080" />
+              <mxPoint x="259" y="-1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-6" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jNQyoVKZM31ma9HM87NY-6" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219" y="-1060" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-7">
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-7" target="So1z7hWqTnWqB35hBrYY-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="-1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="-1090" />
-              <mxPoint x="260" y="-1090" />
+              <mxPoint x="250" y="-1080" />
+              <mxPoint x="259" y="-1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-7" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jNQyoVKZM31ma9HM87NY-7" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="239" y="-1060" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-8">
+        <mxCell id="NJp4aVkzQjaZvJ9505Ke-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="jNQyoVKZM31ma9HM87NY-8" target="So1z7hWqTnWqB35hBrYY-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="-1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="-1090" />
-              <mxPoint x="260" y="-1090" />
+              <mxPoint x="270" y="-1080" />
+              <mxPoint x="259" y="-1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jNQyoVKZM31ma9HM87NY-8" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jNQyoVKZM31ma9HM87NY-8" value="&lt;a href=&quot;https://thepihut.com/products/panel-mount-10k-potentiometer-breadboard-friendly?variant=27740444817&quot;&gt;pot&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1060" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
